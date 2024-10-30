@@ -9,7 +9,7 @@ A SwiftUI package that adds beautiful rainbow text effects to your views.
 - Simple to use with SwiftUI modifiers
 - Support for iOS 15+, macOS 12+, tvOS 15+, and watchOS 8+
 
-![Rainbow Text Animation](https://github.com/RazvanO2/Rainbow-Text-Animation/example.png)
+![Rainbow Text Animation](https://github.com/RazvanO2/Rainbow-Text-Animation/blob/650b0aedc66c971c34830b7b68b3de8eee07cc7d/example.png?raw=true)
 ## Installation
 
 ### Swift Package Manager
