@@ -1,4 +1,4 @@
-# RainbowText
+# Rainbow Text Animation
 
 A SwiftUI package that adds beautiful rainbow text effects to your views.
 
@@ -17,13 +17,13 @@ Add the following to your `Package.swift` file:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/yourusername/RainbowText.git", from: "1.0.0")
+    .package(url: "https://github.com/RazvanO2/Rainbow-Text-Animation.git", from: "1.0.0")
 ]
 ```
 
 Or add it through Xcode:
 1. File > Add Packages...
-2. Enter the package URL: `https://github.com/yourusername/RainbowText.git`
+2. Enter the package URL: `https://github.com/RazvanO2/Rainbow-Text-Animation.git`
 3. Click Add Package
 
 ## Usage
